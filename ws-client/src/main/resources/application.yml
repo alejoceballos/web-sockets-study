@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: WebSocket Client
+
+server:
+  port: 8081
